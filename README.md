@@ -22,3 +22,7 @@ Cette ligne nous permet d'assembler les différents containers ensemble pour ain
 ```
 docker-compose down
 ```
+
+Voilà un exemple d'utilisation:
+
+<img src="image/Animation_Docker.gif">
