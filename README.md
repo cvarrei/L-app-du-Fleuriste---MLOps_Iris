@@ -1,6 +1,7 @@
 # Application de Machine Learning avec Streamlit/FastAPI/Docker
-
-
+<p align="center">
+<img src="image/streamlit-logo-1A3B208AE4-seeklogo.com.png" width="50"/>                      <img src="image/fastapi.svg" width="50"/>                      <img src="image/docker.png" width="50"/>
+</p>
 <span style="color:red;font-weight:bold;">Cette application permet de prédire l'espèce d'une Iris à partir de ses dimensions</span>
 
 On met en relation une partie BackEnd composée d'un modèle de *Régression logistique* ayant appris sur le dataset **Iris** avec un FrontEnd dans lequel on peut rentrer des valeurs sur les dimensions de l'Iris (Petal length and width & Sepal length and width) à travers une API.
